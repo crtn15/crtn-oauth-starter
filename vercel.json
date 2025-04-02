@@ -1,0 +1,11 @@
+
+{
+  "functions": {
+    "api/auth/coinbase.ts": {
+      "runtime": "vercel/node"
+    },
+    "api/auth/callback.ts": {
+      "runtime": "vercel/node"
+    }
+  }
+}
