@@ -2,10 +2,11 @@
 {
   "functions": {
     "api/auth/coinbase.ts": {
-      "runtime": "vercel/node"
+      "runtime": "@vercel/node@18"
     },
     "api/auth/callback.ts": {
-      "runtime": "vercel/node"
+      "runtime": "@vercel/node@18"
     }
   }
 }
+
